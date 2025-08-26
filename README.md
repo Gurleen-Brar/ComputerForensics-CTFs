@@ -1,0 +1,1 @@
+This repository contains write-ups for digital forensics challenges, focusing on memory analysis, disk imaging, metadata examination, and data recovery. Each write-up includes objectives, tools used, and a structured step-by-step methodology for solving the challenge.
